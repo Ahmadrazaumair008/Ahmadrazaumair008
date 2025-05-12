@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+      ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ahmad Raza Umair</h1>
 <h3 align="center">Enthusiastic computer science student with a strong foundation in C++ & Python.</h3>
 
